@@ -4,7 +4,7 @@ MyReads
 This single App  was built for the Udacity React Nanodegree Program. The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app as:
 
 - Reuseable Component
-- Sharing data bettwen component
+- Sharing data between component
 - State
 
 
