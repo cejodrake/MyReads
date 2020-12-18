@@ -28,6 +28,8 @@ Resources and Documentation:
 - React Router Documentation
 - React Training/React Router
 - React API
+- Heroku
+
 Udacity Resources:
 - Project starter template
 - Project Rubric
